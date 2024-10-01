@@ -9,3 +9,5 @@ Create your own Stock TickrMeter
 <li>2 LED WS2812 <a href="https://nl.aliexpress.com/item/1005005577071926.html">AliExpress</a></li>
 </ul>
 * Links to AliExpress for reference only, no affiliate links.
+<br>
+If somebody can disign/create a 3d printable case for this, that would be great ;-)
